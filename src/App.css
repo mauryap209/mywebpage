@@ -34,18 +34,23 @@
   
   }
   .home-text  {
-    margin-top: 50px;
+    margin-top: 20%;
     position: absolute;
     z-index: 10;
     transform: translate(-50%, -50%);
     font-size: 5px ;
     font-weight: bold;
   }
+  .heading {
+  color: white;
+  padding-top: 100px;
+  font-size: ;
+}
 }
 .heading {
-  /* text-align: center; */
   color: white;
   padding-top: 150px;
+  font-size: 25px;
 }
 .home-text {
   position: absolute;
