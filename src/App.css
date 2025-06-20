@@ -4,7 +4,9 @@
   width: 100%;
 }
 /* Home page start*/
+
 .home {
+  
   text-align: center;
    background-color: #c9bdbde7;
   padding: 10px;
@@ -20,6 +22,7 @@
       flex-wrap: wrap;
       justify-content: center;
       gap: 20px;
+      
     }
 
     .card {
@@ -29,6 +32,7 @@
       box-shadow: 0 2px 10px rgba(0,0,0,0.1);
       overflow: hidden;
       width: 300px;
+      
       transition: transform 0.2s;
     }
 
@@ -39,7 +43,7 @@
 
     .card img {
       width: 100%;
-      height: 260px;
+      height: 200px;
     }
 
     .card-content {
