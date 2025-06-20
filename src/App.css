@@ -27,26 +27,18 @@
   justify-content: center;
   text-align: center;
 }
-@media (max-width: 600px) {
+@media (max-width: 768px) {
   .home-page {
-    display: flex;
-    position: relative;
+   
     background-image: url("https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAxL3Jhd3BpeGVsX29mZmljZV8yOV9waG90b2dyYXBoeV9vZl9hYnN0cmFjdF8zZF9kYXJrX2JhY2tncm91bmRfd19lZWQ3NzQzZi1kZmViLTQ2MjQtYmUzZi01MTRhNGRkOTBjOTBfMS5qcGc.jpg");
-    height: 500px;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    width: 100%;
-    justify-content: center;
-    text-align: center;
+  
   }
   .home-text  {
     margin-top: 50px;
     position: absolute;
     z-index: 10;
-  
     transform: translate(-50%, -50%);
-    font-size: 20px ;
+    font-size: 10px ;
     font-weight: bold;
   }
 }
