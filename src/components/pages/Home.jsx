@@ -22,7 +22,7 @@ const Home = () => {
             <a
               className="responsive-link"
               target="_blank"
-              href="https://mywebreact.netlify.app/"
+              href="https://flipcart-copy.vercel.app/"
             >
               Click Me
             </a>
