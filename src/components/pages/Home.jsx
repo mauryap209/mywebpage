@@ -4,8 +4,11 @@ const Home = () => {
   return (
     <div>
       <div className="home-page">
-        <h1 className="home">My Project</h1>
-        
+        <h1 className="heading"><i>Welcome to my Project</i></h1>
+        <p className="home-text">
+          <i>Welcome to my project page! I have created using React. 
+          aspects of web development, Feel free to click on the links to view the projects.
+        </i></p>
       </div>
       {/* Card  of Start*/}
       <div className="card-container">
